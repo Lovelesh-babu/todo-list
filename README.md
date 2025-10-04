@@ -1,11 +1,11 @@
 **Key Features:-**
 
-Tasks or items to be completed
+1. Tasks or items to be completed
 
-Optional due dates or deadlines
+2. Optional due dates or deadlines
 
-Priority levels (high, medium, low)
+3. Priority levels (high, medium, low)
 
-Checkboxes to mark tasks as complete
+4. Checkboxes to mark tasks as complete
 
-Categories or tags (e.g., work, personal, urgent)
+5. Categories or tags (e.g., work, personal, urgent)
